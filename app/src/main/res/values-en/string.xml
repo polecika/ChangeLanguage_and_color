@@ -1,0 +1,16 @@
+
+<resources>
+    <string name="change_language_prompt">Choose a language:</string>
+    <string name="textLanguage">It is english mode on</string>
+    <string name="tostLanguage">You choose english mode</string>
+    <string-array name="change_language_array">
+        <item name="russian_language">russian</item>
+        <item name="english_language">english</item>
+    </string-array>
+    <string name="color_text">Choose a color</string>
+    <string-array name="change_color_array">
+        <item name="green_color">green</item>
+        <item name="black_color">black</item>
+        <item name="blue_color">blue</item>
+    </string-array>
+</resources>

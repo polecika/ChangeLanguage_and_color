@@ -1,0 +1,17 @@
+<resources>
+<string name="app_name" translatable="false">ChangeLanguage_and_color</string>
+<string name="okBtn" translatable="false">Ok</string>
+<string name="textLanguage">Включен режим русского языка</string>
+<string name="tostLanguage">Вы выбрали режим русского языка</string>
+<string name="change_language_prompt">Выбор языка:</string>
+<string-array name="change_language_array">
+    <item name="russian_language">русский</item>
+    <item name="english_language">английский</item>
+</string-array>
+    <string name="color_text">Выберете цвет</string>
+    <string-array name="change_color_array">
+        <item name="green_color">зеленный</item>
+        <item name="black_color">черный</item>
+        <item name="blue_color">синий</item>
+    </string-array>
+</resources>
